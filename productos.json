@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nombrezapato": "Chanclas",
+        "precio": 200.0,
+        "modelo": "250S"
+    },
+    {
+        "id": 2,
+        "nombrezapato": "Zapato de vestir",
+        "precio": 700.0,
+        "modelo": "rf123"
+    },
+    {
+        "id": 3,
+        "nombrezapato": "Tenis",
+        "precio": 500.0,
+        "modelo": "0032M"
+    }
+]
